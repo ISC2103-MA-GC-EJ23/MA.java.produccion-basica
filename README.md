@@ -23,6 +23,12 @@ docker ...
 
 Revisa [LiveShare](https://youtu.be/9QXwSg9-2qQ). Revisa el [uso de LiveShare](https://www.youtube.com/watch?v=nj535VbE9pQ). Disponible para este repositorio.
 
+# Equipo 1
+* Fracciones 1 - Comando de docker para su ejecución:
+```
+docker run alejandroe73/fracciones-1:latest
+```
+
 # Equipo 5
 * Fracciones 5 - Comando de docker para su ejecución:
 ```
