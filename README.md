@@ -30,6 +30,13 @@ docker run -i alejandroe73/fracciones-1:latest
 ```
 La imagen de docker incluye 2 matrices en formato .txt para probar la suma de matrices en el directorio base. Los nombres de los archivos son `matriz1.txt` y `matriz2.txt`, el nombre/ruta del archivo resultado debe ser especificado por el usuario. :smile_cat:
 
+
+# Equipo 2
+* Fracciones 2 - Comando de docker para su ejecución:
+```
+docker run jorgesotoaudelo/calculadorafracciones:latest
+```
+
 # Equipo 3
 * Fracciones 3 - Comando de docker para su ejecución:
 ```
