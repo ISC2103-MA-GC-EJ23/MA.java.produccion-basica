@@ -41,3 +41,10 @@ docker run diegocl311/fracciones:latest
 ```
 docker run marianoarizqueta/proyectofracciones:latest
 ```
+
+# Equipo 7
+* Fracciones 7 - Comando de docker para su ejecución:
+```
+docker run carlosrhb10/fracciones:latest
+```
+
