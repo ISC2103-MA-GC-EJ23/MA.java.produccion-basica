@@ -33,7 +33,7 @@ La imagen de docker incluye 2 matrices en formato .txt para probar la suma de ma
 # Equipo 3
 * Fracciones 3 - Comando de docker para su ejecución:
 ```
-docker run diegocl311/fracciones:latest
+docker run eliugastelum/fracciones:latest
 ```
 
 # Equipo 5
