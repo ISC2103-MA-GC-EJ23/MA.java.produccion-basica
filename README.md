@@ -26,7 +26,7 @@ Revisa [LiveShare](https://youtu.be/9QXwSg9-2qQ). Revisa el [uso de LiveShare](h
 # Equipo 1
 * Fracciones 1 - Comando de docker para su ejecución:
 ```
-docker run alejandroe73/fracciones-1:latest
+docker run -i alejandroe73/fracciones-1:latest
 ```
 
 # Equipo 5
